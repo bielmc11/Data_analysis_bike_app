@@ -1,4 +1,4 @@
-🚲 Cyclistic Bike-Share App Data Analysis
+# 🚲 Cyclistic Bike-Share App Data Analysis
 
 
 ## 1 Goals
@@ -21,7 +21,13 @@ So the main questions to answer are:
 The project utilized Cyclistic’s publicly available historical trip data, specifically focusing on the first quarter of 2019 and 2020 to capture usage patterns.
 
 
-Tools UsedTool / ResourcePrimary FunctionKey OutputCyclistic DataRaw data source for all trip information (start time, end time, user type, etc.).Unprocessed CSV files.Python (Pandas)Data Cleaning, Transformation, and Aggregation. Used to merge files, handle outliers, and calculate new features like ride duration and day/hour of the week.A clean, summarized CSV file ready for visualization.TableauVisualization and Storytelling. Used to create professional, interactive charts and a unified dashboard based on the key findings.Final Project Dashboard (Visual Report).GitHubVersion Control and Documentation. Used to host the final code, data summary, and this project report (README).Complete Project Portfolio Piece.
+
+| Category | Tools | Purpose in Project | 
+|---|---|---|
+|  [Data Cleaning](https://github.com/bielmc11/Data_analysis_bike_app/blob/main/cleanning_2020.ipynb) | Python (Pandas) | Merging quarterly CSV files, data cleaning, filtering outliers, and feature engineering (calculating ride duration, day, and hour). |
+|  [Data Analysis](https://github.com/bielmc11/Data_analysis_bike_app/blob/main/analysis_2020.ipynb) |  | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+|  [Visualization & Storytelling](https://public.tableau.com/app/discover) | Health analysis | I answer business questions wit.... |  
+
 
 
 ## 3 Data Processing
